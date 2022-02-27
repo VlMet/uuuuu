@@ -1,0 +1,58 @@
+[
+{
+    "MEIIEN": [
+        {
+            "name": "Ахметов Равиль",
+            "group": "ООГЭ-1",
+            "day": 7,
+            "time": "14:00",
+            "link": "jxs-ysfc-huh"
+        }
+    ],
+    "WGWAGP": [
+        {
+            "name": "Шипицина Дарина",
+            "group": "ООГЭ-2",
+            "day": 1,
+            "time": "17:00",
+            "link": "jxs-ysfc-huh"
+        }
+    ],
+    "YBJDXE": [
+        {
+            "Имя": "Богданов Арсений",
+            "Группа": "КОГЭ-1",
+            "Преподоватль": "Метелев Владислав",
+            "Занятие": "Понедельник, 16:00",
+            "id": "18H7eUYZ06HAh89HLVmWtt7zcXU4DwVo-BB7bnb0ox6E",
+            "gid": "0",
+            "range": "A5",
+            "link": "https://meet.google.com/jxs-ysfc-huh"
+        }
+    ],
+    "QTHMAB": [
+        {
+            "Имя": "Трофимов Михаил",
+            "Группа": "САЙТFR-1",
+            "Преподоватль": "Метелев Владислав",
+            "Занятие": "Суббота, 17:00",
+            "id": "18H7eUYZ06HAh89HLVmWtt7zcXU4DwVo-BB7bnb0ox6E",
+            "gid": "2024588246",
+            "range": "A5",
+            "link": "https://meet.google.com/jxs-ysfc-huh"
+        }
+    ],
+    "VOFREN": [
+        {
+            "Имя": "Трубин Денис",
+            "Группа": "КМОД-1",
+            "Преподоватль": "Метелев Владислав",
+            "Занятие": "Воскрсенье, 17:00",
+            "id": "18H7eUYZ06HAh89HLVmWtt7zcXU4DwVo-BB7bnb0ox6E",
+            "gid": "968372040",
+            "range": "A12",
+            "link": "https://meet.google.com/jxs-ysfc-huh"
+        }
+    ]
+}   
+]
